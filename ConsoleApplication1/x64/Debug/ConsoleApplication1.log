@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\boss3\source\repos\Tests\ConsoleApplication1\ConsoleApplication1.cpp(6,5): error C2065: 'cout': undeclared identifier
+C:\Users\boss3\source\repos\Tests\ConsoleApplication1\ConsoleApplication1.cpp(7,5): error C2065: 'cin': undeclared identifier
+C:\Users\boss3\source\repos\Tests\ConsoleApplication1\ConsoleApplication1.cpp(8,5): error C2065: 'cout': undeclared identifier
+C:\Users\boss3\source\repos\Tests\ConsoleApplication1\ConsoleApplication1.cpp(9,5): error C2065: 'cin': undeclared identifier
+C:\Users\boss3\source\repos\Tests\ConsoleApplication1\ConsoleApplication1.cpp(10,5): error C2065: 'cout': undeclared identifier
+C:\Users\boss3\source\repos\Tests\ConsoleApplication1\ConsoleApplication1.cpp(11,5): error C2065: 'cin': undeclared identifier
+C:\Users\boss3\source\repos\Tests\ConsoleApplication1\ConsoleApplication1.cpp(18,5): error C2065: 'cout': undeclared identifier
+C:\Users\boss3\source\repos\Tests\ConsoleApplication1\ConsoleApplication1.cpp(18,44): error C2065: 'endl': undeclared identifier
+C:\Users\boss3\source\repos\Tests\ConsoleApplication1\ConsoleApplication1.cpp(19,5): error C2065: 'cout': undeclared identifier
+C:\Users\boss3\source\repos\Tests\ConsoleApplication1\ConsoleApplication1.cpp(19,46): error C2065: 'endl': undeclared identifier
